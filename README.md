@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [atomic-hiroto.github.io](atomic-hiroto.github.io)
+- 👨‍💻 All of my projects are available at [atomic-hiroto.github.io](https://atomic-hiroto.github.io)
 
 - 📫 How to reach me **borolepritam@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Pritam Borole</h1>
 <h3 align="center">A Resourceful and Passionate Full Stack Web Developer from India, with a proven track record of embracing challenging projects that foster personal growth and skill development in the ever-evolving IT industry. Adaptable, quick-learning, and eager to contribute to a forward-thinking organization's success.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-sb&label=Profile%20views&color=353c40&style=flat-square" alt="pritam-sb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atomic-hiroto&label=Profile%20views&color=353c40&style=flat-square" alt="atomic-hiroto" /> </p>
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pritam-sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-sb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atomic-hiroto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atomic-hiroto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,8 +20,7 @@
 
 <h3 align="left">User Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam-sb&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="pritam-sb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atomic-hiroto&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="atomic-hiroto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam-sb&show_icons=true&theme=vision-friendly-dark&locale=en" alt="pritam-sb" /></p>
-<p><img align="center" display="block" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-sb&theme=vision-friendly-dark" alt="pritam-sb" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atomic-hiroto&show_icons=true&theme=vision-friendly-dark&locale=en" alt="atomic-hiroto" /></p>
+<p><img align="center" display="block" src="https://github-readme-streak-stats.herokuapp.com/?user=atomic-hiroto&theme=vision-friendly-dark" alt="atomic-hiroto" /></p>
